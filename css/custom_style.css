@@ -1,0 +1,494 @@
+body{
+	font-family: "Raleway",sans-serif;
+}
+
+section{
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+#brav-nav{
+	width: 100%;
+	background-color: #598ebf;
+}
+
+#brav-nav img{
+	width: 150px;
+	padding: 20px;
+	float: left;
+
+}
+
+#brav-nav button{
+	background:none;
+	padding:10px;
+	border:1px solid white;
+	color: white;
+	font-size: 14px;
+	font-weight: bold;
+	float:right;
+	margin-top: 10px;
+}
+
+#brav-nav a{
+	color: white;
+}
+
+
+#brav-nav a:hover{
+	text-decoration: none;
+}
+
+
+#login{
+	margin-top: 10px;
+	padding-top: 10px;
+	color:white;
+	font-size: 14px;
+	font-weight: bold;
+}
+
+
+.navbar .navbar-nav {
+  display: inline-block;
+  float: none;
+  vertical-align: top;
+}
+
+.navbar .navbar-collapse {
+  text-align: center;
+}
+
+.navbar-default .navbar-nav>li>a{
+	font-weight: bold;
+	font-size: 14px;
+	color: #A7A9AC;
+}
+
+.navbar-nav>li{
+	padding: 5px;
+	padding-right: 35px;
+}
+
+header{
+	background: url(../img/notebook-laptop.jpg) no-repeat center ;
+	margin-top: 135px;
+	padding-top: 50px;
+	background-size: cover;
+	color: white;
+}
+
+header h2{
+	font-weight: bold;
+	font-size: 60px;
+}
+
+header p{
+	font-size: 18px;
+	margin-top: 25px;
+	padding-right: 230px;
+}
+
+header button{
+	font-size: 16px;
+	background-color: #A7A9AC;
+	padding:10px;
+	border:none;
+	margin-top: 15px;
+	margin-right: 15px;
+	font-weight: bold;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+
+.bold{
+	font-weight: bold;
+	font-size: 48px;
+	color: #323232;
+}
+
+#who{
+	text-align: center;
+}
+
+#who p{
+	font-weight: lighter;
+	font-size: 18px;
+	color: #323232;
+}
+
+#who img{
+	/*width: 100px;*/
+	margin: 0 auto;
+	display: block;
+}
+
+#who h3{
+	font-size: 14px;
+	font-weight: bold;
+}
+
+#quote{
+	text-align: center;
+	background-color: #4b7aa8;
+	color: white;
+}
+
+#quote h2{
+	font-weight: lighter;
+	font-size: 30px;
+	margin-bottom: 30px;
+}
+
+#what{
+	background: url(../img/man-working.jpg) no-repeat center;
+	background-size: cover;
+	color: white;
+	text-align: center;
+}
+
+#what>p>.bold{
+	color: white;
+}
+
+#what img{
+	/*width: 150px;*/
+	margin: 0 auto;
+	display: block;
+}
+
+#what h3{
+	font-weight: bold;
+	font-size: 18px;
+}
+
+
+.grey-box{
+	background-color: #e6e7e8;
+	margin-bottom: 50px;
+}
+
+#box h2{
+	font-weight: bold;
+	color: #323232;
+	font-size: 48px;
+	margin-bottom: 0px;
+}
+
+#box p{
+	margin-bottom: 20px;
+	font-size: 18px;
+}
+
+.box-bold{
+	font-weight: bold;
+	color: #52afec;
+	font-size: 18px;
+}
+
+.grey-box button{
+	border:none;
+	font-weight: bold;
+	padding: 10px;
+	background-color: #598ebf;
+	margin-bottom: 30px;
+	color: white;
+}
+
+footer{
+	background-color: #3c3c3c;
+	color: white;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+footer img{
+	margin-right: 15px;
+}
+footer ul{
+	list-style: none;
+}
+footer li{
+	padding-bottom: 10px;
+}
+
+footer a{
+	color: white;
+}
+
+footer a:hover{
+	color: white;
+	text-decoration: none;
+}
+
+
+
+#brav-header{
+	background-color: #999999;
+	margin-top: 140px;
+	color: white;
+}
+
+#brav-header h2{
+	font-size: 72px;
+	color: white;
+	font-weight: bold;
+}
+
+#brav-header p{
+	font-size: 18px;
+}
+
+#brav-span{
+	color: #385d81;
+	font-weight: lighter;
+}
+
+#brav-header button{
+	font-size: 16px;
+	background-color: #598ebf;
+	border:none;
+	color: white;
+	font-weight: bold;
+	padding:20px;
+	margin-bottom: 50px;
+}
+
+#how{
+	background-color: #385d81;
+	color: white;
+}
+
+#how li,p {
+	font-size: 18px;
+	font-weight: lighter;
+	margin-bottom: 5px;
+}
+
+#sign{
+	background-color: #e6e7e8;
+}
+
+#sign button{
+	background-color: #598ebf;
+	font-weight: bold;
+	font-size: 24px;
+	padding:10px;
+	border:none;
+	color: white;
+	text-align: center;
+	margin:0 auto;
+	display: block;
+}
+
+.info p{
+	font-size: 18px;
+	font-weight: lighter;
+}
+
+#team{
+	text-align: center;
+	background-color: #385d81;
+	color: white;
+}
+
+
+#team h2{
+
+	font-size: 48px;
+	font-weight: bold;
+	margin-bottom: 50px;
+}
+
+
+#team h3{
+	font-weight: bold;
+	font-size: 18px;
+	text-align: left;
+	margin-top: 0;
+	line-height: 25px;
+}
+
+#team p{
+	font-weight: lighter;
+	font-size: 18px;
+	text-align: left;
+	margin-bottom: 50px;
+}
+
+#interns{
+	text-align: center;
+}
+
+#interns h2{
+	font-weight: bold;
+	font-size: 48px;
+	margin-bottom: 40px;
+}
+
+#interns img{
+	border-radius: 50%;
+	height: 100px;
+	width: 100px;
+	margin: 0 auto;
+	display: block;
+}
+
+#interns h3{
+	font-weight: bold;
+	font-size: 16px;
+	margin-bottom: 0px;
+}
+
+
+#interns p{
+	font-weight: lighter;
+	font-size: 16px;
+	margin-bottom: 30px;
+}
+
+.not-pictured{
+	background-color: black;
+}
+
+ul{
+	list-style-image: url("../img/checkmark.png") ;
+}
+
+
+#session{
+	background-color: #4b7aa8;
+	color: white;
+
+}
+
+#session h2{
+	font-size: 36px;
+	font-weight: bold;
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+#session p{
+	font-size: 18px;
+	text-align: center;
+	font-weight: lighter;
+	padding-bottom: 20px;
+	border-bottom: 1px solid white;
+}
+
+#session li{
+	font-size: 16px;
+	font-weight: lighter;
+	margin-top: 20px;
+}
+
+#session button{
+	border:none;
+	font-size: 16px;
+	background-color: #598ebf;
+	color: white;
+	padding:10px;
+	margin:0 auto;
+	display: block;
+	margin-top: 30px;
+}
+
+#faq h3{
+	text-align: center;
+	font-size: 18px;
+	color: #323232;
+	margin-bottom: 50px;
+}
+
+#faq img{
+	margin: 50px auto;
+	display: block;
+	margin-bottom: 20px;
+
+}
+
+#faq>.container>.row{
+	background-color: #e6e7e8;
+	margin-top: 40px;
+}
+
+
+.faq-box{
+	background-color: #e6e7e8;
+	padding: 85px;
+}
+
+#blog-header{
+	background-color: #598ebf;
+	text-align: center;
+	color: white;
+	padding-bottom: 30px;
+	margin-bottom: 30px;
+	
+}
+
+#blog-header h3{
+	font-size: 60px;
+	font-weight: lighter;
+}
+
+#blog-header p{
+	font-weight: lighter;
+	font-size: 14px;
+}
+
+#blog-header img{
+	margin:40px auto;
+	display: block;
+	margin-bottom: 0;
+}
+
+.article h3{
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.article p{
+	font-size: 18px;
+	font-weight: lighter;
+}
+
+.article a, .side-article a{
+	font-weight: bold;
+	font-size: 14px;
+	color: #52afec;
+}
+
+.article{
+	margin-bottom: 30px;
+}
+
+.side-article h4{
+	font-size: 16px;
+	font-weight: bold;
+}
+
+.side-article p{
+	font-weight: lighter;
+	font-size: 16px;
+}
+
+
+
+
+@media (max-width: 400px ){
+	header h2{
+		font-size: 40px;
+	}
+
+	header p{
+		padding-right: 10px;
+	}
+
+	footer img{
+		margin-bottom: 30px;
+	}
+}
+
+
