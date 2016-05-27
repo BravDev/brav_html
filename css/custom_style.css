@@ -475,6 +475,58 @@ ul{
 }
 
 
+.email-info{
+	margin-top: 140px;
+	color: white;
+}
+
+.email-info h2{
+	font-weight: bold;
+	font-size: 72px;
+}
+
+.email-info p{
+	margin-top: 10px;
+	font-size: 18px;
+}
+
+.email-info li{
+	font-size: 18px;
+	font-weight: lighter;
+
+}
+
+.email-info img{
+	width: 500px;
+	margin: 30px auto;
+	margin-bottom: 50px;
+}
+
+.email-form{
+	background-color: #999999;
+	padding:25px;
+	margin-bottom: 40px;
+}
+
+body > div > div > div.col-md-4 > div > input[type="text"]{
+	width: 100%;
+	background-color: #C8C8C8;
+	padding:7px;
+	border:none;
+}
+
+
+.email-form button{
+	background-color: #385d81;
+	padding:5px;
+	width: 100%;
+	font-size: 16px;
+	font-weight: bold;
+	border: none;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
 
 
 @media (max-width: 400px ){
